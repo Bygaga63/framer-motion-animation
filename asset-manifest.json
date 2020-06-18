@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Bygaga63/framer-motion-animation/static/css/main.86dbead9.chunk.css",
-    "main.js": "/Bygaga63/framer-motion-animation/static/js/main.868b05fa.chunk.js",
-    "main.js.map": "/Bygaga63/framer-motion-animation/static/js/main.868b05fa.chunk.js.map",
-    "runtime-main.js": "/Bygaga63/framer-motion-animation/static/js/runtime-main.785ce22e.js",
-    "runtime-main.js.map": "/Bygaga63/framer-motion-animation/static/js/runtime-main.785ce22e.js.map",
-    "static/js/2.bee08571.chunk.js": "/Bygaga63/framer-motion-animation/static/js/2.bee08571.chunk.js",
-    "static/js/2.bee08571.chunk.js.map": "/Bygaga63/framer-motion-animation/static/js/2.bee08571.chunk.js.map",
-    "index.html": "/Bygaga63/framer-motion-animation/index.html",
-    "precache-manifest.f14dff83f9f729e77b16e0794e604264.js": "/Bygaga63/framer-motion-animation/precache-manifest.f14dff83f9f729e77b16e0794e604264.js",
-    "service-worker.js": "/Bygaga63/framer-motion-animation/service-worker.js",
-    "static/css/main.86dbead9.chunk.css.map": "/Bygaga63/framer-motion-animation/static/css/main.86dbead9.chunk.css.map",
-    "static/js/2.bee08571.chunk.js.LICENSE.txt": "/Bygaga63/framer-motion-animation/static/js/2.bee08571.chunk.js.LICENSE.txt"
+    "main.css": "/framer-motion-animation/static/css/main.86dbead9.chunk.css",
+    "main.js": "/framer-motion-animation/static/js/main.868b05fa.chunk.js",
+    "main.js.map": "/framer-motion-animation/static/js/main.868b05fa.chunk.js.map",
+    "runtime-main.js": "/framer-motion-animation/static/js/runtime-main.aca73bd4.js",
+    "runtime-main.js.map": "/framer-motion-animation/static/js/runtime-main.aca73bd4.js.map",
+    "static/js/2.bee08571.chunk.js": "/framer-motion-animation/static/js/2.bee08571.chunk.js",
+    "static/js/2.bee08571.chunk.js.map": "/framer-motion-animation/static/js/2.bee08571.chunk.js.map",
+    "index.html": "/framer-motion-animation/index.html",
+    "precache-manifest.ccd791067d1a788e41c410b765efd761.js": "/framer-motion-animation/precache-manifest.ccd791067d1a788e41c410b765efd761.js",
+    "service-worker.js": "/framer-motion-animation/service-worker.js",
+    "static/css/main.86dbead9.chunk.css.map": "/framer-motion-animation/static/css/main.86dbead9.chunk.css.map",
+    "static/js/2.bee08571.chunk.js.LICENSE.txt": "/framer-motion-animation/static/js/2.bee08571.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.785ce22e.js",
+    "static/js/runtime-main.aca73bd4.js",
     "static/js/2.bee08571.chunk.js",
     "static/css/main.86dbead9.chunk.css",
     "static/js/main.868b05fa.chunk.js"
