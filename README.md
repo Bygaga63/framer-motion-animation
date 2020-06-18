@@ -1,7 +1,11 @@
-initial - from
-animate - to
-whileHover - когда наводишь на элемент
-exit - анимация когда компонент исчезает
+Проект сделан с использоваение библиотеки framer-motion:
+[link](https://www.framer.com/api/motion/examples/)
+
+Свойста motion компонентов.
+* initial - from
+* animate - to
+* whileHover - когда наводишь на элемент
+* exit - анимация когда компонент исчезает
 
 свойства transition:
 ```
